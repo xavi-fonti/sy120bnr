@@ -1,0 +1,2 @@
+# sy120bnr
+spacemacs
